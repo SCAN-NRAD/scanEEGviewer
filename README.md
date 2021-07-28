@@ -14,4 +14,4 @@ A MATLAB based reader for EEG data which allows simple annotation of epileptifor
 
 
 ### Usage with EDF:
-- instructions can be found in the script *convertEDFtoMat.m*
+- instructions can be found in the script *convertEDFtoMAT.m*
