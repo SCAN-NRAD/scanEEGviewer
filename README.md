@@ -3,7 +3,7 @@ A MATLAB based reader for EEG data which allows simple annotation of epileptifor
 - developed on MATLAB 2019b, tested on 2015b, does not run on <= MATLAB 2014a
 - optimized for screen resolution 1920x1200
 
-![alt text](https://raw.githubusercontent.com/leahcimrelleum/scanEEGviewerTest01/main/ExampPrtScr.png)
+![alt text](https://raw.githubusercontent.com/SCAN-NRAD/scanEEGviewer/main/ExampPrtScr.png)
 
 
 ## Quick start:
