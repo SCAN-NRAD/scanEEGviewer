@@ -8,9 +8,12 @@ A MATLAB based reader for EEG data which allows simple annotation of epileptifor
 
 ## Quick start:
 - download script *scanEEGviewer.m*
-- download EEG data *Exp1-sz1.mat* to subfolder *./Data*
-- download associated event data *Exp1-sz1-events.mat* to subfolder *./Data/annot*
+- download and extract *exampleData.zip* to subfolders *./Data* and *./Data/annot* respectively
 - in MATLAB run script *scanEEGviewer.m*
+
+
+## Full data set:
+- All EEG and annotation data used in our upcoming publication *"More than spikes: on the added value of nonlinear iEEG analysis for surgery planning in temporal lobe epilepsy"* will soon be made available
 
 
 ### Usage with EDF:
