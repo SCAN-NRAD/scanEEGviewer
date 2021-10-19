@@ -12,9 +12,9 @@ A MATLAB based reader for EEG data which allows simple annotation of epileptifor
 - in MATLAB run script *scanEEGviewer.m*
 
 
-## Full data set:
-- All EEG and annotation data used in our upcoming publication *"More than spikes: on the added value of nonlinear iEEG analysis for surgery planning in temporal lobe epilepsy"* will soon be made available
-
-
 ### Usage with EDF:
 - instructions can be found in the script *convertEDFtoMAT.m*
+
+
+## Full data set:
+All EEG and annotation data used in our upcoming publication *"More than spikes: on the added value of nonlinear iEEG analysis for surgery planning in temporal lobe epilepsy"* will soon be made available
