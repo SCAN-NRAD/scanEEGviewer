@@ -17,4 +17,4 @@ A MATLAB based reader for EEG data which allows simple annotation of epileptifor
 
 
 ## Full data set:
-All EEG and annotation data used in our upcoming publication *"More than spikes: on the added value of nonlinear iEEG analysis for surgery planning in temporal lobe epilepsy"* will soon be made available
+All EEG and annotation data used in our upcoming publication *"More than spikes: on the added value of nonlinear iEEG analysis for surgery planning in temporal lobe epilepsy"* can be found at http://mia-software.artorg.unibe.ch/scanEEGdata/.
