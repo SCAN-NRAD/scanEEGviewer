@@ -23,7 +23,7 @@
 
 function scanEEGviewer(varargin)
 	%%% default data path for relative path specifications
-	dataPath = '../Data/';
+	dataPath = './Data/';
 	eventPath = 'annot*';
 	%%%
 	
